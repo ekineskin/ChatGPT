@@ -7,7 +7,7 @@ import retrofit2.http.Body
 import retrofit2.http.Headers
 import retrofit2.http.POST
 
-const val APIKEY = "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"
+const val APIKEY = xxx  /*"Here your api key"*/
 
 interface Api {
     @POST("completions")
